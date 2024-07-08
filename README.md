@@ -4,13 +4,13 @@
 
 ##
 
-<h1 align="center">◾ Приветствую всех ◾ <br> Меня зовут Илья </h1>
+<h1 align="center">◾ Hello there! ◾ <br> I'm Ilya </h1>
 
 ---
 
 ###
 
-<h2 align="left"> 📜 Краткая биография </h2>
+<h2 align="left"> 📜 Brief Bio </h2>
 
 ###
 
