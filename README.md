@@ -14,4 +14,11 @@
 
 ###
 <p align="left">
-Since school days, I've always been more drawn to natural sciences than humanities. My educational path has led me to graduate in Software Engineering from university, and my career aspirations are focused on the realm of information technology and software development.</p>
+Since school days, I've always been more drawn to natural sciences than humanities. My educational path has led me to graduate in Software Engineering from university, and my career aspirations are focused on the realm of information technology and software development.
++ Participated in Spring Hackaton 2022;
++ Completed several courses on the educational platform;
++ Got university technical degree;
++ I regularly strive to improve the quality of my knowledge.
+</p>
+
+
