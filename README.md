@@ -13,4 +13,5 @@
 <h2 align="left"> 📜 Brief Bio </h2>
 
 ###
-
+<p align="left">
+Since school days, I've always been more drawn to natural sciences than humanities. My educational path has led me to graduate in Software Engineering from university, and my career aspirations are focused on the realm of information technology and software development.</p>
