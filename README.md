@@ -77,5 +77,6 @@ Since school days, I've always been more drawn to natural sciences than humaniti
 ###
 
 <h2 align="left"> :cyclone: Other </h2>
-Visitors count
+
+#### *Visitors count*
 <img src="https://profile-counter.glitch.me/HeapGeap/count.svg" />
