@@ -72,3 +72,10 @@ Since school days, I've always been more drawn to natural sciences than humaniti
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="45" alt="dcrk_logo"  />
 </div>
 
+---
+
+###
+
+<h2 align="left"> :cyclone: Other </h2>
+Visitors count
+<img src="https://profile-counter.glitch.me/HeapGeap/count.svg" />
