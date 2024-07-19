@@ -48,7 +48,9 @@ Since school days, I've always been more drawn to natural sciences than humaniti
 
 <h2 align="left"> :wrench: Technologies </h2>
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="45" alt="gh_logo"  />
+    <a href="https://vk.com/freaky_timelapse" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="45" alt="gh_logo"  />
+    </a>
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="45" alt="ij_logo"  />
   <img width="12" />
