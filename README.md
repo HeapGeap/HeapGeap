@@ -22,28 +22,19 @@ Since school days, I've always been more drawn to natural sciences than humaniti
 </p>
 
 ---
+###
 
 <h2 align="left"> :mailbox_closed: Social media </h2>
-<div align="left">
-  <a href="https://vk.com/freaky_timelapse" target="_blank">
-    <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=vk" height="30" alt="vk_logo"  />
-  </a>
+
+  [ <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=vk" height="30" alt="vk_logo"  />](https://vk.com/freaky_timelapse)
     <img width="6" />
-    <a href="https://wa.me/89515014411" target="_blank">
-    <img src="https://img.shields.io/badge/WA-009900?style=for-the-badge&logo=WhatsApp&logoColor=white" height="30" alt="wa_logo"  />
-  </a>
+  [<img src="https://img.shields.io/badge/WA-009900?style=for-the-badge&logo=WhatsApp&logoColor=white" height="30" alt="wa_logo"  />](https://wa.me/89515014411)
    <img width="6" />
-  <a href="https://t.me/freaky_timelapse" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tg_logo"  />
-  </a>
+  [<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tg_logo"  />](t.me/freaky_timelapse)
   <img width="6" />
-  <a href="https://github.com/HeapGeap" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" height="30" alt="java_logo"  />
-  </a>
-</div>
+  [ <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" height="30" alt="java_logo"  />](https://github.com/HeapGeap)
 
 ---
-
 ###
 
 <h2 align="left"> :wrench: Technologies </h2>
