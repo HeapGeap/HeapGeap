@@ -69,5 +69,18 @@ Since school days, I've always been more drawn to natural sciences than humaniti
 
 <h2 align="left"> :cyclone: Other </h2>
 
+
 #### *Visitors count*
 <img src="https://profile-counter.glitch.me/HeapGeap/count.svg" />
+
+<br>
+<p align=left>
+  <div align=left>
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=HeapGeap&theme=merko&border=6BDF38&hide_border=true" alt="hg" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HeapGeap&show_icons=true&theme=merko&border_color=6BDF38&hide_border=true" />
+ </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?=username=HeapGeap&hide=c%23,Cuda&title_color=ABD200&text_color=528E6B&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </div>
+  <br>
