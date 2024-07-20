@@ -47,32 +47,30 @@ Since school days, I've always been more drawn to natural sciences than humaniti
 ###
 
 <h2 align="left"> :wrench: Technologies </h2>
-<div align="left">
-    <a href="https://vk.com/freaky_timelapse" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="45" alt="gh_logo"  />
-    </a>
+
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="45" alt="gh_logo"/>](https://github.com/HeapGeap/FractalProject)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="45" alt="ij_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="45" alt="ij_logo"/>](https://stepik.org/cert/2177502)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="45" alt="linux_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="45" alt="linux_logo"/>](https://docs.oracle.com/en/operating-systems/oracle-linux/)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" height="45" alt="md_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" height="45" alt="md_logo"/>](https://www.markdownguide.org/basic-syntax/)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original.svg" height="45" alt="mv_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original.svg" height="45" alt="mv_logo"/>](https://maven.apache.org/guides/index.html)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="45" alt="msql_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="45" alt="msql_logo"/>](https://stepik.org/cert/2213114)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" height="45" alt="orcl_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" height="45" alt="orcl_logo"  />](https://docs.oracle.com/en/operating-systems/oracle-linux/)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="45" alt="pg_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="45" alt="pg_logo"  />](https://www.postgresql.org/docs/)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="45" alt="pstmn_logo"  />
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="45" alt="pstmn_logo"  />](https://www.postman.com/)
   <img width="6" />
-  <img src="https://e7.pngegg.com/pngimages/340/100/png-clipart-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-thumbnail.png" height="45" alt="vbox_logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="45" alt="dcrk_logo"  />
+  [<img src="https://e7.pngegg.com/pngimages/340/100/png-clipart-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-thumbnail.png" height="45" alt="vbox_logo"/>](https://www.virtualbox.org/wiki/Documentation)
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="45" alt="dcrk_logo"/>](https://docs.docker.com/)
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="45" alt="dcrk_logo"  />
-</div>
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="45" alt="dcrk_logo"/>](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+
 
 ---
 
