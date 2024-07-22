@@ -62,9 +62,9 @@ Since school days, I've always been more drawn to natural sciences than humaniti
   <img width="12" />
   [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="45" alt="dcrk_logo"/>](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
   <img width="12" />
-  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="45" alt="dcrk_logo"/>](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="45" alt="dcrk_logo"/>](https://github.com/HeapGeap/Pacman)
   <img width="12" />
-  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="45" alt="dcrk_logo"/>](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+  [<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="45" alt="dcrk_logo"/>](https://github.com/HeapGeap/NIR)
   
 ---
 
